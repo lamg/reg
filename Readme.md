@@ -16,7 +16,7 @@ Install instructions
 - It was developed using Go 1.0.1. You should have a compatible 
   version.
 - Fetch: go get github.com/lamg/reg.
-- Go install: go install reg.
+- Go install: go install github.com/lamg/reg.
 
 Terms of use
 ------------
